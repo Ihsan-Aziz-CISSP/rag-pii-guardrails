@@ -1,0 +1,17 @@
+MT Corp AI Acceptable Use Policy v1.2
+
+Section 1: Approved Tools
+Employees may use ChatGPT Enterprise for drafting emails and summarizing documents.
+
+Section 2: Prohibited Data
+Never input the following into any LLM:
+- Customer PII: Names, emails, phone numbers. Example: John Smith, john.smith@acme.com, 555-123-4567
+- Employee HR data: SSN, salary. Example: Jane Doe, SSN 123-45-6789, $125,000 salary
+- PHI: Patient medical records per HIPAA. Example: Patient ID P-789, Diagnosis: Hypertension
+- API Keys: Example sk-proj-abc123xyz789
+
+Section 3: Incident Response
+Report suspected data leakage to security@acme.com within 1 hour.
+
+Section 4: Training
+Annual training required. Last training completed by HR Manager Sarah Johnson on 03/15/2026.
